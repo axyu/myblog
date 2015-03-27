@@ -74,6 +74,9 @@ deploy:
 # duoshuo discuss
 duoshuo_shortname: axyu
 
+# avatar
+avatar: http://axyu.github.io/images/default_avatar.jpg
+
 # Establish Time
 since: 2015
 
@@ -84,4 +87,4 @@ social:
   WeiBo: http://weibo.com/1876218027
   
 # Baidu Analysics
-  baidu_analytics: anshews
+baidu_analytics: 192555d30a615dafd34527e5f34632a4

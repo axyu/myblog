@@ -74,6 +74,9 @@ deploy:
 # duoshuo discuss
 duoshuo_shortname: axyu
 
+# avatar
+avatar: http://axyu.github.io/images/me.jpg
+
 # Establish Time
 since: 2015
 
@@ -82,3 +85,6 @@ social:
   GitHub: https://github.com/axyu
   ZhiHu: http://www.zhihu.com/people/yu-an-xuan-95
   WeiBo: http://weibo.com/1876218027
+  
+# Baidu Analysics
+baidu_analytics: 192555d30a615dafd34527e5f34632a4
