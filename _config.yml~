@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Yu Anxuan
+title: Jack
 subtitle: Special Programmer
 description:
 author: Yu Anxuan
@@ -75,7 +75,7 @@ deploy:
 duoshuo_shortname: axyu
 
 # avatar
-avatar: http://axyu.github.io/images/me.jpg
+avatar: http://axyu.github.io/images/default_avatar.jpg
 
 # Establish Time
 since: 2015
